@@ -1,0 +1,4 @@
+# ignore files and OD generated files
+*.csv
+.DS_Store
+.DS_Store?
